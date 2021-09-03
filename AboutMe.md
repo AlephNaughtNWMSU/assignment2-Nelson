@@ -27,5 +27,39 @@ as for me, give me liberty or give me death!
 > Father, forgive them; for they know not what they do (Luke 23:34)
 *Jesus the Christ*
 
+---
 
+### Code Fencing - Algorithm
+##### Sqrt Decomposition
+> Sqrt (or Square Root) Decomposition Technique is one of the most common query optimization technique used by competitive programmers. This technique helps us to reduce Time Complexity by a factor of sqrt(n). *GeeksForGeeks.org*
+[Source](https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/)
 
+~~~
+// input data
+int n;
+vector<int> a (n);
+
+// preprocessing
+int len = (int) sqrt (n + .0) + 1; // size of the block and the number of blocks
+vector<int> b (len);
+for (int i=0; i<n; ++i)
+    b[i / len] += a[i];
+
+// answering the queries
+for (;;) {
+    int l, r;
+  // read input data for the next query
+    int sum = 0;
+    for (int i=l; i<=r; )
+        if (i % len == 0 && i + len - 1 <= r) {
+            // if the whole block starting at i belongs to [l, r]
+            sum += b[i / len];
+            i += len;
+        }
+        else {
+            sum += a[i];
+            ++i;
+        }
+}
+~~~
+[Source Code](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
