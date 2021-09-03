@@ -12,3 +12,11 @@ It is a very nice park with a lake and a **cool** forested area. I have only bee
 3. Travel to Dallas and take I-35 north
 4. Follow I-35 north until you reach Kearney, MO
 5. Exit there and continue to the park, follow the signs.
+
+* snacks
+* good hiking shoes
+* sunscreen
+* bug spray
+* camera
+* map
+* someone else
