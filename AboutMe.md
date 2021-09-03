@@ -23,6 +23,7 @@ These are four food and drink items that I recommend that someone should try. I 
 > I know not what course others may take; but
 as for me, give me liberty or give me death!
 *Patrick Henry*
+
 > Father, forgive them; for they know not what they do (Luke 23:34)
 *Jesus the Christ*
 
