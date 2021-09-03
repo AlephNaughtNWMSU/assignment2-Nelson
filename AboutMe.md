@@ -15,3 +15,16 @@ These are four food and drink items that I recommend that someone should try. I 
 | Sonic Chocolate Milk Shake | Maryville Sonic | $4.00 |
 | Reese's Peanut Butter Cup | Maryville Hyvee | $0.75 |
 | Ali's Bakery Donut | Maryville (6th & Main) | $1.00 |
+
+--- 
+
+### Quotes
+
+> I know not what course others may take; but
+as for me, give me liberty or give me death!
+*Patrick Henry*
+> Father, forgive them; for they know not what they do (Luke 23:34)
+*Jesus the Christ*
+
+
+
