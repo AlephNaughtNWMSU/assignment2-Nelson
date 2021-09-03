@@ -20,3 +20,5 @@ It is a very nice park with a lake and a **cool** forested area. I have only bee
 * camera
 * map
 * someone else
+
+** [About Me page](AboutMe.md) **
